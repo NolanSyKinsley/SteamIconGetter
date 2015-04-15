@@ -6,4 +6,4 @@ This is a simple steam Icon grabber to go with the companion script, it will che
 You will to enter your Steam 64 ID and also get your own Web API Key and enter it as well. 
 
 Your end result should look something like this,
-<img>http://i.imgur.com/UzJFl0P.png</img>
+![alt tag](http://i.imgur.com/UzJFl0P.png)
