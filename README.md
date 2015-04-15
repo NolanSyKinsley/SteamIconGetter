@@ -1,5 +1,5 @@
 # SteamIconGetter
-I have a script that creats an openbox pipe menu and populates it with all your downloaded games but Steam under linux utterly fails in getting icons for most games as shown here:
+I have a script that creates an openbox pipe menu and populates it with all your downloaded games but Steam under linux utterly fails in getting icons for most games as shown here:
 
 ![alt tag](http://i.imgur.com/CjSmXEU.png)
 
