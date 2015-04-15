@@ -11,3 +11,5 @@ This script only needs to be ran once, or whenever you download new games and ne
 Your end result should look something like this:
 
 ![alt tag](http://i.imgur.com/UzJFl0P.png)
+
+The companion script can be found here: https://github.com/NolanSyKinsley/Obmenu-SteamPopulator
