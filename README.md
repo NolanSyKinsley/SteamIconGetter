@@ -3,7 +3,7 @@ I have a script that creates an openbox pipe menu and populates it with all your
 
 ![alt tag](http://i.imgur.com/CjSmXEU.png)
 
-This is a simple steam Icon getter to go with the Obmenu-SteamPopulator script, it will check what games you have downloaded, then steamcmd to grab the 32x32 pixel icons for each game and place them in the appropriate directory.
+This is a simple steam Icon getter to go with the Obmenu-SteamPopulator script, it will check what games you have downloaded, then uses steamcmd to grab the 32x32 pixel icons for each game and place them in the appropriate directory.
 
 Requires steamcmd to be installed. https://developer.valvesoftware.com/wiki/SteamCMD
 (was available in my distro's repo, I suggest you check there first.)
